@@ -160,6 +160,10 @@ padding-top: 30px;
   font-weight:lighter;
 }
 
+#cutline btn-primary {
+  color: #F25F90;
+}
+
 .form-control {
     display: block;
     width: 100%;
